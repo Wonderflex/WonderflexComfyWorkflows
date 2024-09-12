@@ -1,7 +1,7 @@
 # Comfy UI Workflows Created by Wonderflex
 
 # Overview
-This is a list of some of the various workflows that I've put together for use within Comfy UI.
+This is a list of some of the various workflows that I've put together for use within Comfy UI.  I have more to come, but most are in spaghetti state and not ready for public consumption. 
 
 # List of workflows available
 
