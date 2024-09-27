@@ -19,4 +19,4 @@ Archived Workflows. These have been replaced and are no longer maintained.
 
 | Title | Workflow  | Description | Version  |
 | ------------- | ------------- | ------------- | ------------- |
-| Wallpaper Generator | ![Wallpaper Generator](https://github.com/Wonderflex/WonderflexComfyWorkflows/blob/main/Workflows/Wallpaper%20Generator.png)  | This workflow is designed to create 1920x1080 wallpapers using an expand and mosaic img2img process. Controls are built in to allow you to determine the direction of the image expansion, as to best match the rule of thirds.  | SDXL  |
+| Wallpaper Generator | ![Wallpaper Generator](https://github.com/Wonderflex/WonderflexComfyWorkflows/blob/main/Archive/WallpaperGeneratorV2.png)  | This workflow is designed to create 1920x1080 wallpapers using an expand and mosaic img2img process. Controls are built in to allow you to determine the direction of the image expansion, as to best match the rule of thirds.  | SDXL  |
